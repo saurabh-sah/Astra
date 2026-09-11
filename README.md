@@ -24,7 +24,7 @@ V3 — f-AnoGAN 🏆
 | **V2** | CVAE | 128×128 Grayscale | **0.8599** | Probabilistic latent space + KL |
 | **V3** | f-AnoGAN | 64×64 RGB | **0.9687** | Reconstruction + critic feature discrepancy |
 
-The development of every version follows **Symptom → Diagnosis → Fix** and is documented in [`changelog (2).md`](changelog%20%282%29.md).
+The development of every version follows **Symptom → Diagnosis → Fix** and is documented in [`changelog.md`](changelog.md).
 
 ---
 
