@@ -167,6 +167,16 @@ The final f-AnoGAN model is deployed through an interactive **Streamlit dashboar
 
 The dashboard allows a user to upload a Mars surface image and run the trained V3 model for anomaly detection.
 
+### Dashboard Preview
+
+#### Normal Image
+
+![Streamlit Dashboard - Normal Prediction](dashboard_normal.png)
+
+#### Anomaly Image
+
+![Streamlit Dashboard - Anomaly Prediction](dashboard_anomaly.png)
+
 ## Streamlit Files
 
 | File | Purpose |
